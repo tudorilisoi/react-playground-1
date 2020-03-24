@@ -6,7 +6,8 @@ import Accordion from './state-drills/Accordion';
 
 const sections = [
   {
-    title: 'Section 1',
+    // bugfix
+    title: 'Section 2',
     content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
   },
   {
